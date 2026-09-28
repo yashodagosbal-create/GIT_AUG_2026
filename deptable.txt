@@ -1,0 +1,3 @@
+deptno,deptname
+100,police
+108,ambulance
